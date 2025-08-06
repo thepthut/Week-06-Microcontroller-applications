@@ -5,9 +5,9 @@
 
 
 ## 🔍 คำถามทบทวน
-
+~~~
 1. **Docker vs Native Setup**: อธิบายข้อดีของการใช้ Docker เปรียบเทียบกับการติดตั้ง ESP-IDF บน host system
-2. 1. Docker vs Native Setup
+1. Docker vs Native Setup
 ข้อดีของ Docker:
 Environment Consistency
 
@@ -264,3 +264,4 @@ Hybrid Approach สำหรับ Advanced:
 Docker สำหรับ learning และ CI/CD
 Native สำหรับ real hardware development
 Best of both worlds
+~~~
