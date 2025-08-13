@@ -1,4 +1,5 @@
-~~~1. Multiple Source Files: เหตุใดต้องแยก source code เป็นหลายไฟล์?
+~~~
+1. Multiple Source Files: เหตุใดต้องแยก source code เป็นหลายไฟล์?
 ข้อดีของการแยกไฟล์:
 
 จัดระเบียบโค้ด: แยกหน้าที่ตามโมดูล (sensor, display, LED) ทำให้อ่านและเข้าใจง่าย
